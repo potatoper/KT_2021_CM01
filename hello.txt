@@ -1,0 +1,8 @@
+hello world
+ni hao
+hi
+w!newfile
+:w
+w
+ZZ
+
